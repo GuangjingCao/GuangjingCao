@@ -1,6 +1,7 @@
 👋 Hi, I am Grace! 
 
 🎓 Junior at Worcester Polytechnic Institute, studying Mathematical Science and Data Science
+
 🔭 I am passionate to pursue a career in DS and AI
 
 I love tackling real-world problems through data analysis and predictive modeling. I’m big on continuously learning and building my skills, and believe taking initiative is a key to growth. Currently, I'm focusing on building machine learning models and diving deeper into data science. I’m looking to leverage and grow my skills in an internship where I can contribute to exciting projects and learn from industry professionals- got any leads? Let me know!
