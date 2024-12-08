@@ -1,4 +1,4 @@
-## Hi there 👋
+👋 Hi, I am Grace! 
 
 My name is Guangjing(Grace) Cao. I am majoring in Mathematical Science and Data Science in Worcester Polytechnic Institute.
 I am passionate to pursue a career in DS and AI.
