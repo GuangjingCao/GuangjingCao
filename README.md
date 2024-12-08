@@ -1,4 +1,5 @@
 👋 Hi, I am Grace! 
+
 🎓 Junior at Worcester Polytechnic Institute, studying Mathematical Science and Data Science
 🔭 I am passionate to pursue a career in DS and AI
 
