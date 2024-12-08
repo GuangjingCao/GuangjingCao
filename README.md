@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**GuangjingCao/GuangjingCao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 My name is Guangjing(Grace) Cao. I am majoring in Mathematical Science and Data Science in Worcester Polytechnic Institute.
 I have a huge interest in DS and AI.
 
