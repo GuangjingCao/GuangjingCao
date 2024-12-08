@@ -13,6 +13,7 @@ Tools: Jupyter Notebooks, Google Colab, GitHub
 Databases: SQL, MySQL
 
 🚀 Projects:
+
 Here are some projects that I’ve worked on:
 1. An AI-Driven Approach to System Reliability Analysis
 Processed and analyzed unstructured text using NLP techniques, including tokenization, lemmatization, and vectorization.
@@ -31,5 +32,6 @@ Tech Stack: Python, VSCode, R
 Learnings: Clean data, conducting all kinds of statistical tests
 
 📫 How to Reach Me:
+
 Email: gcao@wpi.edu
 LinkedIn: www.linkedin.com/in/guangjing-cao
