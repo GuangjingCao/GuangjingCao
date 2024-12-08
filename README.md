@@ -17,7 +17,7 @@ Databases: SQL, MySQL
 
 Here are some projects that I’ve worked on:
 
-1.AI Studio project in Breakthrough Tech AI
+1. AI Studio project in Breakthrough Tech AI
 Predict electricity demand in Texas. Developing a machine learning model based on regression trees and using Large Language Models (LLMs) to explain the decisions made by these regression trees. 
 Tech Stack: Python, VSCode
 Learnings: Clean data, build model and deal with time-seies data, prompt engineering
